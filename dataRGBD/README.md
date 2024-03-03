@@ -1,0 +1,1 @@
+Please download the data from [OneDrive](https://ucsdcloud-my.sharepoint.com/personal/natanasov_ucsd_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnatanasov%5Fucsd%5Fedu%2FDocuments%2FStuff%2FTeaching%2FECE276A%2FECE276A%5FProjects%2FECE276A%5FLidar%5FSLAM%2FKinectData&ga=1)
